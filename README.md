@@ -1,4 +1,6 @@
-### Hi there 👋
+* 🎓 Currently studying computer science at [GUT](https://www.google.com).
+* ⭐ Interested in Data Science and Machine Learning.
+* 🔭 Looking for an internship.
 
 <!--
 **michalbaldyga/michalbaldyga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
