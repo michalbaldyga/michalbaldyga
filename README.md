@@ -1,4 +1,4 @@
-* 🎓 Currently studying computer science at [GUT](https://www.google.com).
+* 🎓 Currently studying computer science at [GUT](https://pg.edu.pl/).
 * ⭐ Interested in Data Science and Machine Learning.
 * 🔭 Looking for an internship.
 
